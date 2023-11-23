@@ -1,0 +1,22 @@
+*{
+  font-family: Verdana, sans-serif;
+  font-size: 18px;
+  color:black;
+}
+.GalleryItem{
+  float: left;
+  padding:10px;
+}
+img{
+  width: 130px;
+  height: 130px;
+}
+p{
+  margin-left:50px;
+  margin-top:50px;
+}
+.Gallery{
+  float: left;
+  border: black;
+  border-style: solid;
+}
