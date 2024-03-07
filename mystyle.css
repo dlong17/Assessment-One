@@ -17,6 +17,6 @@ p{
 }
 .Gallery{
   float: left;
-  border: black;
-  border-style: solid;
+  border: green;
+  border-style: dashed;
 }
